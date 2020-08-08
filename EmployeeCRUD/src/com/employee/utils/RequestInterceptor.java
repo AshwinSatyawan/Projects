@@ -1,4 +1,4 @@
-package com.jamocha.utils;
+package com.employee.utils;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

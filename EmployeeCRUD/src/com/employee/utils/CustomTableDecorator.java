@@ -1,4 +1,4 @@
-package com.jamocha.utils;
+package com.employee.utils;
 
 import org.displaytag.decorator.TableDecorator;
 

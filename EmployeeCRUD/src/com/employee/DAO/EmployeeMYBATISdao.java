@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import com.employee.controllers.Employee;
 import com.employee.controllers.Login;
-import com.jamocha.mybatis.MyBatisUtil;
+import com.employee.mybatis.MyBatisUtil;
 
 @Repository
 public class EmployeeMYBATISdao implements EmployeeDAO {

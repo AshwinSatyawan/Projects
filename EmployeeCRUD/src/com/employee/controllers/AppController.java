@@ -15,9 +15,10 @@ import org.springframework.web.bind.annotation.InitBinder;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.SessionAttributes;
-import com.jamocha.services.Service;
-import com.jamocha.utils.CustomValidator;
-import com.jamocha.utils.MycustomNumberEditor;
+
+import com.employee.services.Service;
+import com.employee.utils.CustomValidator;
+import com.employee.utils.MycustomNumberEditor;
 
 //------------------------------------------------------------------LOGIN------------------------------------------------------------------------------------------------
 @Controller

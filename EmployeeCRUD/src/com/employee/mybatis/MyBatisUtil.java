@@ -1,4 +1,4 @@
-package com.jamocha.mybatis;
+package com.employee.mybatis;
 
 
 import org.apache.ibatis.datasource.pooled.PooledDataSource;

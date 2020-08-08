@@ -16,7 +16,8 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.jamocha.services.Service;
+import com.employee.services.Service;
+
 import java.util.function.Function;
 @Controller
 public class HighChartController {

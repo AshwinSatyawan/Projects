@@ -1,4 +1,4 @@
-package com.jamocha.utils;
+package com.employee.utils;
 
 import org.springframework.beans.propertyeditors.CustomNumberEditor;
 import org.springframework.util.StringUtils;
